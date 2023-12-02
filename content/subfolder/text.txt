@@ -1,0 +1,1 @@
+This is the test file in the subfolder and this is the text I've added later on in the test file

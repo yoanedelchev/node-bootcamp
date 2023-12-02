@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yoan Nedelchev @Farve",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "qrcode": "^1.5.3"
+  }
+}

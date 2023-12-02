@@ -1,0 +1,10 @@
+const { peter, john } = require("./first-module");
+const sayHi = require("./second-module");
+// console.log(firstModule);
+// sayHi("Susan");
+// sayHi(john);
+// sayHi(peter);
+// sayHi("Yoan");
+// sayHi(john);
+// sayHi(peter);
+require("./second-module");
